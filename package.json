@@ -1,0 +1,23 @@
+{
+  "name": "suffering",
+  "version": "1.0.0",
+  "description": "n/a",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybunayog/cy-torment.git"
+  },
+  "author": "Cy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybunayog/cy-torment/issues"
+  },
+  "homepage": "https://github.com/cybunayog/cy-torment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
