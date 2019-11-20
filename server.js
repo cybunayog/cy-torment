@@ -1,7 +1,7 @@
 var express = require('express');
 var port = 6969;
 var path = require('path');
-var routes = require("./routes");
+var routes = require('./routes');
 var app = express();
 
 app.set("port", process.env.PORT || 6969);
